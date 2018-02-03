@@ -77,8 +77,8 @@ BOARD_USES_SCALER := true
 BOARD_USES_DT := true
 
 # Hardware
-BOARD_HARDWARE_CLASS += hardware/samsung/cmhw
-BOARD_HARDWARE_CLASS += device/samsung/zero-common/cmhw
+BOARD_HARDWARE_CLASS += hardware/samsung/mkhw
+BOARD_HARDWARE_CLASS += device/samsung/zero-common/mkhw
 
 # HWCServices
 BOARD_USES_HWC_SERVICES := true
